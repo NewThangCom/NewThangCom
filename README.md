@@ -3,6 +3,7 @@ Tên Website 	NewThang
 
 Tên Miền 	newthang.com 	
 Facebook 	https://www.facebook.com/newthangcom 	
+
 Gmail 	newthangwebsite@gmail.com 	
 Số điện thoại 	+84356155800 	Chỉnh sửa
 Twitter 	https://twitter.com/NewThang_com 
