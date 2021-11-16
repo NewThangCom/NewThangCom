@@ -6,7 +6,7 @@ Facebook 	https://www.facebook.com/newthangcom
 
 Gmail 	newthangwebsite@gmail.com 
 
-Số điện thoại 	+84356155800 
+Số điện thoại 	+84356155801
 
 Twitter 	https://twitter.com/NewThang_com 
 
