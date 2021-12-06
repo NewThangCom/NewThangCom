@@ -1,9 +1,9 @@
-
-Giới thiệu trang web NewThang:
+Giới thiệu trang web NewThang trực thuộc công ty NewThang:
 
 Tên Website: 	NewThang 
 
 Tên Miền: 	newthang.com 	
+
 Facebook: 	https://www.facebook.com/newthangcom 	
 
 Gmail: 	newthangwebsite@gmail.com 
@@ -20,6 +20,16 @@ Google Map: 	https://www.google.com/maps/place//data=!4m2!3m1!1s0x31358d1bc82838
 
 Github: 	https://github.com/NewThangCom
 
+FireFox NewThang's Extensions: https://addons.mozilla.org/en-US/firefox/user/17013892/
+
+Google's giới thiệu: https://newthangcom.business.site/
+
+Trang giới thiệu:  https://newthangcom.business.site/posts/3105556780170379996?hl=vi
+
+Quora giới thiệu: https://www.quora.com/What-do-you-know-about-NewThang-com-1/answer/Web-Ph%E1%BB%91?prompt_topic_bio=1
+
+Reddit: https://www.reddit.com/user/NewThang_com
+
 Địa chỉ: New Thang, Đa Phúc, Dương Kinh, Hải Phòng 186200
 
 Postal code: 18000
@@ -32,6 +42,5 @@ Các danh mục của NewThang:
 
 + Thịnh hành: https://newthang.com/top-view
 
-
-
++ Thịnh hành: https://newthang.com/top-view
 
