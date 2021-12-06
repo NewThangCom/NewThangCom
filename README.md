@@ -1,4 +1,6 @@
 
+Giới thiệu trang web NewThang:
+
 Tên Website: 	NewThang 
 
 Tên Miền: 	newthang.com 	
