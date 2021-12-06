@@ -18,7 +18,7 @@ Google Map: 	https://www.google.com/maps/place//data=!4m2!3m1!1s0x31358d1bc82838
 
 Github: 	https://github.com/NewThangCom
 
-Địa chỉ: Hải Phòng
+Địa chỉ: New Thang, Đa Phúc, Dương Kinh, Hải Phòng 186200
 
 Postal code: 18000
 
