@@ -30,6 +30,8 @@ Quora giới thiệu: https://www.quora.com/What-do-you-know-about-NewThang-com-
 
 Reddit: https://www.reddit.com/user/NewThang_com
 
+Google News: https://news.google.com/publications/CAAqBwgKMMTfqwswwerDAw?hl=en-SG&gl=SG&ceid=SG:en
+
 Địa chỉ: New Thang, Đa Phúc, Dương Kinh, Hải Phòng 186200
 
 Postal code: 18000
